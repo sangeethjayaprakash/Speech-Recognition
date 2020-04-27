@@ -1,2 +1,2 @@
-# speech_recognition
+# Speech-Recognition
 Variational Autoencoder Based Speech Recognition
